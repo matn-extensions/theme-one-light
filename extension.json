@@ -1,0 +1,10 @@
+{
+  "id": "matn.theme.one_light",
+  "name": "One Light Theme",
+  "version": "1.0.0",
+  "author": "Matn Team",
+  "description": "Atom One Light palette with clean, soft background and pleasant contrast",
+  "category": "themes",
+  "type": "theme",
+  "repository": "https://github.com/matn-extensions/theme-one-light"
+}
